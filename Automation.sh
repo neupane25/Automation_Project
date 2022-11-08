@@ -41,5 +41,3 @@ if [[ ! -f /etc/cron.d/Automation ]];
 then
     echo " * * * * * root/Automation_Project/Automation.sh" >> /etc/cron.d/Automation
 fi
-		
-Footer
